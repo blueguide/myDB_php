@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * Enter description here ...
+ * php Mysql通用类
  * @author BlueguideLong Email: Blueguide@163.com
  * @version 1.0.0
  *
