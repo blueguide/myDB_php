@@ -1,4 +1,11 @@
 <?php
+/**
+ * 
+ * Enter description here ...
+ * @author BlueguideLong Email: Blueguide@163.com
+ * @version 1.0.0
+ *
+ */
 class DB_mysql{
 	
 	public $DbLink;
